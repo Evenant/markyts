@@ -1,0 +1,3 @@
+[submodule "slither-doc"]
+	path = slither-doc
+	url = https://github.com/scongebop/slither-doc.git
