@@ -1,7 +1,8 @@
 `Mark.ts`:
 Original-flavored "CommonMark" Markdown, the only thing it is missing is tables.
 
-DISCLAIMER: The features in the files below ARE NOT officialfeatures in CommonMark, so if you want to create markdown documents that can be interpreted by any parser, ONLY USE `Mark.ts`
+# DISCLAIMER
+The features in the files below ARE NOT officialfeatures in CommonMark, so if you want to create markdown documents that can be interpreted by any parser, ONLY USE `Mark.ts`
 
 `MarkStyle.ts`:
 Allows you to style your markdown files with underlines, colored text and colored backgrounds
